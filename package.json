@@ -1,0 +1,9 @@
+{
+  "name": "prime-checker",
+  "version": "1.0.0",
+  "description": "A small module for checking whether numbers are prime.",
+  "keywords": ["prime", "number", "checker"],
+  "license": "ISC",
+  "author": "freeCodeCamp learner",
+  "type": "commonjs"
+}
